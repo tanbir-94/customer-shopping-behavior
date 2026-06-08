@@ -152,5 +152,5 @@ This project was built as part of my data analytics portfolio. I am a fresher ac
 **Skills demonstrated:** Python · SQL · Power BI · Data Cleaning · EDA · Business Insights · Dashboard Design
 
 ---
-
+🌐 Portfolio: https://tanbir-94.github.io/
 *Dataset source: Kaggle — Customer Shopping Behavior Dataset*
